@@ -1,0 +1,12 @@
+Zadanie 5.1 88, 73, 22
+Zadanie 5.2 6 maja 2015 r. 13172 litrów.
+Zadanie 5.3 W zad5.xlsx
+Zadanie 5.4
+miesiąc ile litrów	ile m3	cena
+kwiecień    0	0	 -   zł
+maj         13172	14	 164,36 zł
+czerwiec	89444	90	 1 056,60 zł
+lipiec	217938	218	 2 559,32 zł
+sierpień	310099	311	 3 651,14 zł
+wrzesień	112774	113	 1 326,62 zł
+Ładniej jest w pliku.

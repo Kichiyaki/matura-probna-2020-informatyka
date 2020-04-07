@@ -1,0 +1,3 @@
+Zadanie 4.1. 1056392131.0 1.0
+Zadanie 4.2. ciąg: 17, pierwsza: 193134524, ostatnia: 223545714
+Zadanie 4.3. 149

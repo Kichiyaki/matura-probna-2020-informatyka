@@ -1,0 +1,49 @@
+Zadanie 6.1
+imie	nazwisko	SumaOfcena (zl)
+Alicja	Kowalska	3841
+
+Zadanie 6.2
+imie	nazwisko	PoliczOfid_klienta
+Johan	Bor	20
+
+Zadanie 6.3
+data	zabieg	PoliczOfzabieg
+25.01.2018	Magia Hawajow	1
+20.01.2018	Magia Hawajow	1
+18.01.2018	Magia Hawajow	1
+12.01.2018	Magia Hawajow	1
+10.01.2018	Magia Hawajow	1
+04.01.2018	Magia Hawajow	2
+03.01.2018	Magia Hawajow	1
+22.12.2017	Magia Hawajow	1
+21.12.2017	Magia Hawajow	1
+19.12.2017	Magia Hawajow	1
+18.12.2017	Magia Hawajow	1
+14.12.2017	Magia Hawajow	1
+12.12.2017	Magia Hawajow	1
+08.12.2017	Magia Hawajow	1
+06.12.2017	Magia Hawajow	1
+04.12.2017	Magia Hawajow	1
+27.11.2017	Magia Hawajow	1
+22.11.2017	Magia Hawajow	1
+20.11.2017	Magia Hawajow	1
+13.11.2017	Magia Hawajow	1
+
+Zadanie 6.4
+data	dzial	imie	nazwisko	id_klienta	po_obnizce
+11.01.2018	MAKIJAZ	Justyna	Moroz	X80	40
+15.12.2017	MAKIJAZ	Barbara	Filipiak	X85	40
+06.12.2017	MAKIJAZ	Dorota	Eskoban	X2	64
+11.12.2017	MAKIJAZ	Nalia	Orzel	X71	64
+22.12.2017	MAKIJAZ	Walerie	Karotka	X45	64
+08.01.2018	MAKIJAZ	Monica	Fantutti	X29	64
+13.01.2018	MAKIJAZ	Cecylia	Platek	X69	64
+
+łącznie zapłaciły: 400zł
+
+Zadanie 6.5
+kod_zabiegu	dzial	zabieg	cena (zl)
+FRM2	FRYZJER MESKI	Odsiwianie	120
+FRM5	FRYZJER MESKI	Kuracja L'Oreal	55
+FRM7	FRYZJER MESKI	Rytual Kerastase (dyscyplinujacy)	150
+FRM8	FRYZJER MESKI	Maska Masquargil	20
