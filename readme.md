@@ -1,0 +1,1 @@
+# Rozwiązania zadań z próbnego egzaminu maturalnego z informatyki (kwiecień 2020 CKE).
