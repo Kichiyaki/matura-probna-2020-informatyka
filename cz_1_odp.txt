@@ -1,0 +1,43 @@
+1.1 najmniejsza: 4, największa: 5
+1.2
+1 wywołanie -> x = 7 p = 1 k = 11
+2 wywołanie -> x = 7 p = 1 k = 6
+3 wywołanie -> x = 7 p = 1 k = 3
+4 wywołanie -> x = 7 p = 3 k = 3
+1.3 logarytmiczna
+
+2.1 maksymalnie 4 dominanty
+1, 1, 1, 2, 2, 2, 3, 3, 3, 4
+2.2
+def get_mode(t):
+  cache = {}
+  for i in t:
+    if i in cache:
+      cache[i] += 1
+    else:
+      cache[i] = 1
+  mode = 0
+  for key in cache.keys():
+    if mode == 0 or cache[key] > cache[mode]:
+      mode = key
+  return mode
+
+3.1.1 f
+3.1.2 f
+3.1.3 f
+3.1.4 p
+
+3.2.1 f
+3.2.2 p
+3.2.3 p
+3.2.4 f
+
+3.3.1 f
+3.3.2 p
+3.3.3 f
+3.3.4 f
+
+3.4.1 f
+3.4.2 f
+3.4.3 p
+3.4.4 p
